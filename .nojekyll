@@ -1,4 +1,0 @@
-
-git add .nojekyll
-git commit -m "Jekyll deaktivieren"
-git push origin main
