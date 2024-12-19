@@ -265,3 +265,6 @@
 </body>
 
 </html>
+git add .nojekyll
+git commit -m "Jekyll deaktiviert"
+git push origin main
